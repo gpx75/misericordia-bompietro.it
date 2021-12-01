@@ -307,10 +307,10 @@ export default {
   transform: translate3d(0, -100%, 0);
 }
 .bompietro-bkg {
-  background-image: url("~assets/images/bompietro_d1.jpg");
+  background-image: url("~/assets/images/bompietro_d1.jpg");
 }
 
 .confratelli-bkg {
-  background-image: url("~assets/images/gruppo.jpg");
+  background-image: url("~/assets/images/gruppo.jpg");
 }
 </style>
