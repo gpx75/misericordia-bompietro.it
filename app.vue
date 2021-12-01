@@ -16,7 +16,7 @@
               <span class="font-bold">
                 <img
                   class="w-16"
-                  src="/assets/images/logo_tricolore.png"
+                  src="~/assets/images/logo_tricolore.png"
                   alt=""
                 />
               </span>
@@ -92,7 +92,7 @@
         <div class="w-full max-w-screen-2xl">
           <img
             class="opacity-80 object-scale-down h-80 w-full"
-            src="/assets/images/logo-confederazione.png"
+            src="~/assets/images/logo-confederazione.png"
             alt=""
           />
           <h1
@@ -127,7 +127,7 @@
         <video
           controls
           class="w-full"
-          src="/assets/images/video1.mp4"
+          src="~/assets/images/video1.mp4"
           alt="Sunset in the mountains"
         />
         <div class="px-6 py-4">
@@ -307,10 +307,10 @@ export default {
   transform: translate3d(0, -100%, 0);
 }
 .bompietro-bkg {
-  background-image: url("/assets/images/bompietro_d1.jpg");
+  background-image: url("~assets/images/bompietro_d1.jpg");
 }
 
 .confratelli-bkg {
-  background-image: url("/assets/images/gruppo.jpg");
+  background-image: url("~assets/images/gruppo.jpg");
 }
 </style>
