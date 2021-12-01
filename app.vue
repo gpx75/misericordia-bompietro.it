@@ -14,7 +14,11 @@
             >
               <i class="bx bxl-medium-old mr-1 text-xl mb-1 text-blue-400"></i>
               <span class="font-bold">
-                <img class="w-16" src="/images/logo_tricolore.png" alt="" />
+                <img
+                  class="w-16"
+                  src="/assets/images/logo_tricolore.png"
+                  alt=""
+                />
               </span>
             </a>
           </div>
@@ -88,7 +92,7 @@
         <div class="w-full max-w-screen-2xl">
           <img
             class="opacity-80 object-scale-down h-80 w-full"
-            src="/images/logo-confederazione.svg"
+            src="/assets/images/logo-confederazione.png"
             alt=""
           />
           <h1
@@ -123,7 +127,7 @@
         <video
           controls
           class="w-full"
-          src="/images/video1.mp4"
+          src="/assets/images/video1.mp4"
           alt="Sunset in the mountains"
         />
         <div class="px-6 py-4">
@@ -303,10 +307,10 @@ export default {
   transform: translate3d(0, -100%, 0);
 }
 .bompietro-bkg {
-  background-image: url("/images/bompietro_d1.jpg");
+  background-image: url("/assets/images/bompietro_d1.jpg");
 }
 
 .confratelli-bkg {
-  background-image: url("/images/gruppo.jpg");
+  background-image: url("/assets/images/gruppo.jpg");
 }
 </style>
