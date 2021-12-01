@@ -26,9 +26,9 @@ Build the application for production:
 yarn build
 ```
 
-Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment).
+## Deployment
 
-## Deployment
+Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment).
 
 netlify: simply push to this repo
 
