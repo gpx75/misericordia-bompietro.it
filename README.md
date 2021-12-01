@@ -30,4 +30,5 @@ Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment).
 
 ## Deployment
 netlify: simply push to this repo
+
 firebase: NITRO_PRESET=firebase npm run build && firebase deploy
