@@ -1,0 +1,1 @@
+import{_ as a,c as r,a as s,t,o}from"./entry-f6093800.mjs";const n={},c={class:"h-screen w-screen m-auto"};function l(e,p,u,_,i,m){return o(),r("div",{key:e.$route.params.slug},[s("section",c,[s("h1",null,t(e.$route.params.slug),1)])])}var f=a(n,[["render",l]]);export{f as default};
